@@ -1068,11 +1068,16 @@
             ]
         },
         "youtube_statistics": {
-            "viewCount": "1068",
-            "likeCount": "39",
-            "favoriteCount": "0",
-            "commentCount": "1",
+            "viewCount": 3009,
+            "likeCount": 84,
+            "favoriteCount": 0,
+            "commentCount": 3,
             "liveStreamingDetails": [
+                {
+                    "actualStartTime": "2022-02-15T16:04:54Z",
+                    "actualEndTime": "2022-02-15T18:20:08Z",
+                    "scheduledStartTime": "2022-02-15T16:00:00Z"
+                },
                 {
                     "actualStartTime": "2021-05-11T15:59:53Z",
                     "actualEndTime": "2021-05-11T18:08:15Z",
@@ -1355,8 +1360,8 @@
             "nosql",
             "workshop"
         ],
-        "last_modified": "2023-03-15T21:04:19Z",
-        "stargazers": 262,
+        "last_modified": "2023-05-31T00:01:07Z",
+        "stargazers": 261,
         "forks": 197,
         "description": "An introduction to NoSQL Databases",
         "reposlug": "datastaxdevs-workshop-introduction-to-nosql",
