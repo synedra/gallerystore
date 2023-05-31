@@ -82,7 +82,7 @@
         ],
         "last_modified": "2023-04-25T16:40:45Z",
         "stargazers": 21,
-        "forks": 81,
+        "forks": 82,
         "reposlug": "DataStax-Examples-astra-tik-tok"
     },
     "DataStax-Examples-astra-netflix": {
@@ -758,11 +758,17 @@
             ]
         },
         "youtube_statistics": {
-            "viewCount": 0,
-            "likeCount": 0,
-            "dislikeCount": 0,
-            "favoriteCount": 0,
-            "commentCount": 0
+            "viewCount": "817",
+            "likeCount": "29",
+            "favoriteCount": "0",
+            "commentCount": "0",
+            "liveStreamingDetails": [
+                {
+                    "actualStartTime": "2022-08-10T14:54:50Z",
+                    "actualEndTime": "2022-08-10T17:11:57Z",
+                    "scheduledStartTime": "2022-08-10T15:00:00Z"
+                }
+            ]
         },
         "last_modified": "2023-01-25T17:48:55Z",
         "stargazers": 10,
@@ -1190,9 +1196,9 @@
             "doc api",
             "apps"
         ],
-        "last_modified": "2023-03-28T12:45:37Z",
-        "stargazers": 60,
-        "forks": 63,
+        "last_modified": "2023-05-31T09:07:19Z",
+        "stargazers": 61,
+        "forks": 64,
         "description": "A simple Tik-Tok clone running on AstraDB that leverages the Document API.",
         "reposlug": "datastaxdevs-workshop-social-media-tiktok",
         "name": "TikTok clone using React, JAMStack and AstraDB",
@@ -1313,11 +1319,17 @@
             ]
         },
         "youtube_statistics": {
-            "viewCount": 0,
-            "likeCount": 0,
-            "dislikeCount": 0,
-            "favoriteCount": 0,
-            "commentCount": 0
+            "viewCount": "1094",
+            "likeCount": "44",
+            "favoriteCount": "0",
+            "commentCount": "0",
+            "liveStreamingDetails": [
+                {
+                    "actualStartTime": "2022-06-29T14:55:25Z",
+                    "actualEndTime": "2022-06-29T17:02:24Z",
+                    "scheduledStartTime": "2022-06-29T15:00:00Z"
+                }
+            ]
         },
         "last_modified": "2023-04-10T05:15:46Z",
         "stargazers": 78,
