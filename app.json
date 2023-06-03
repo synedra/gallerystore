@@ -1196,8 +1196,8 @@
             "doc api",
             "apps"
         ],
-        "last_modified": "2023-05-31T09:07:19Z",
-        "stargazers": 61,
+        "last_modified": "2023-06-03T15:29:20Z",
+        "stargazers": 62,
         "forks": 65,
         "description": "A simple Tik-Tok clone running on AstraDB that leverages the Document API.",
         "reposlug": "datastaxdevs-workshop-social-media-tiktok",
@@ -1691,8 +1691,8 @@
                 "https://www.mentimeter.com/app/folder/1973089"
             ]
         },
-        "last_modified": "2023-05-16T15:57:58Z",
-        "stargazers": 21,
+        "last_modified": "2023-06-03T15:29:26Z",
+        "stargazers": 22,
         "forks": 24,
         "description": "Clone of Good Reads using Spring and Cassandra",
         "reposlug": "datastaxdevs-workshop-betterreads"
