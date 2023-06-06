@@ -758,7 +758,7 @@
             ]
         },
         "youtube_statistics": {
-            "viewCount": "820",
+            "viewCount": "821",
             "likeCount": "29",
             "favoriteCount": "0",
             "commentCount": "0",
@@ -1068,15 +1068,15 @@
             ]
         },
         "youtube_statistics": {
-            "viewCount": "1072",
-            "likeCount": "39",
+            "viewCount": "1948",
+            "likeCount": "45",
             "favoriteCount": "0",
-            "commentCount": "1",
+            "commentCount": "2",
             "liveStreamingDetails": [
                 {
-                    "actualStartTime": "2021-05-11T15:59:53Z",
-                    "actualEndTime": "2021-05-11T18:08:15Z",
-                    "scheduledStartTime": "2021-05-11T16:00:00Z"
+                    "actualStartTime": "2022-02-15T16:04:54Z",
+                    "actualEndTime": "2022-02-15T18:20:08Z",
+                    "scheduledStartTime": "2022-02-15T16:00:00Z"
                 }
             ]
         },
