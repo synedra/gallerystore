@@ -685,7 +685,7 @@
         },
         "last_modified": "2023-02-07T19:26:49Z",
         "stargazers": 17,
-        "forks": 8,
+        "forks": 9,
         "description": "Welcome to the Apache Cassandra\u2122 Fundamentals workshop! In this two-hour workshop, we shows the most important fundamentals and basics of the powerful distributed NoSQL database Apache Cassandra\u2122.",
         "reposlug": "datastaxdevs-workshop-cassandra-fundamentals",
         "duration": "120 minutes",
@@ -903,17 +903,11 @@
             ]
         },
         "youtube_statistics": {
-            "viewCount": "1677",
-            "likeCount": "88",
-            "favoriteCount": "0",
-            "commentCount": "1",
-            "liveStreamingDetails": [
-                {
-                    "actualStartTime": "2022-08-31T14:57:25Z",
-                    "actualEndTime": "2022-08-31T17:22:42Z",
-                    "scheduledStartTime": "2022-08-31T15:00:00Z"
-                }
-            ]
+            "viewCount": 0,
+            "likeCount": 0,
+            "dislikeCount": 0,
+            "favoriteCount": 0,
+            "commentCount": 0
         },
         "last_modified": "2023-02-09T16:59:36Z",
         "stargazers": 6,
@@ -1068,16 +1062,11 @@
             ]
         },
         "youtube_statistics": {
-            "viewCount": 3042,
-            "likeCount": 84,
-            "favoriteCount": 0,
-            "commentCount": 3,
+            "viewCount": "1078",
+            "likeCount": "39",
+            "favoriteCount": "0",
+            "commentCount": "1",
             "liveStreamingDetails": [
-                {
-                    "actualStartTime": "2022-02-15T16:04:54Z",
-                    "actualEndTime": "2022-02-15T18:20:08Z",
-                    "scheduledStartTime": "2022-02-15T16:00:00Z"
-                },
                 {
                     "actualStartTime": "2021-05-11T15:59:53Z",
                     "actualEndTime": "2021-05-11T18:08:15Z",
@@ -1693,7 +1682,7 @@
         },
         "last_modified": "2023-06-03T15:29:26Z",
         "stargazers": 22,
-        "forks": 24,
+        "forks": 25,
         "description": "Clone of Good Reads using Spring and Cassandra",
         "reposlug": "datastaxdevs-workshop-betterreads"
     },
