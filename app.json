@@ -1068,7 +1068,7 @@
             ]
         },
         "youtube_statistics": {
-            "viewCount": 3044,
+            "viewCount": 3045,
             "likeCount": 84,
             "favoriteCount": 0,
             "commentCount": 3,
@@ -1895,8 +1895,8 @@
             ]
         },
         "tags": [],
-        "last_modified": "2022-08-02T05:27:00Z",
-        "stargazers": 18,
+        "last_modified": "2023-06-14T23:17:26Z",
+        "stargazers": 19,
         "forks": 15,
         "description": "Example REST API in Python showing how to connect to and query DataStax Astra databases",
         "reposlug": "DataStax-Examples-getting-started-with-astra-python"
