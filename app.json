@@ -903,11 +903,17 @@
             ]
         },
         "youtube_statistics": {
-            "viewCount": 0,
-            "likeCount": 0,
-            "dislikeCount": 0,
-            "favoriteCount": 0,
-            "commentCount": 0
+            "viewCount": "1678",
+            "likeCount": "88",
+            "favoriteCount": "0",
+            "commentCount": "1",
+            "liveStreamingDetails": [
+                {
+                    "actualStartTime": "2022-08-31T14:57:25Z",
+                    "actualEndTime": "2022-08-31T17:22:42Z",
+                    "scheduledStartTime": "2022-08-31T15:00:00Z"
+                }
+            ]
         },
         "last_modified": "2023-02-09T16:59:36Z",
         "stargazers": 6,
@@ -1633,20 +1639,14 @@
             ]
         },
         "youtube_statistics": {
-            "viewCount": "2286",
-            "likeCount": "71",
-            "favoriteCount": "0",
-            "commentCount": "0",
-            "liveStreamingDetails": [
-                {
-                    "actualStartTime": "2022-02-02T15:54:55Z",
-                    "actualEndTime": "2022-02-02T18:18:04Z",
-                    "scheduledStartTime": "2022-02-02T16:00:00Z"
-                }
-            ]
+            "viewCount": 0,
+            "likeCount": 0,
+            "dislikeCount": 0,
+            "favoriteCount": 0,
+            "commentCount": 0
         },
-        "last_modified": "2023-06-17T05:03:03Z",
-        "stargazers": 29,
+        "last_modified": "2023-06-17T20:58:11Z",
+        "stargazers": 30,
         "forks": 14,
         "description": "A simple multiplayer online game (with in-game chat) featuring: Astra Streaming, Astra DB, WebSockets, React for the front-end and FastAPI for the back-end. Also spiders!",
         "reposlug": "datastaxdevs-workshop-streaming-game",
