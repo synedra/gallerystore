@@ -671,17 +671,11 @@
             ]
         },
         "youtube_statistics": {
-            "viewCount": "1431",
-            "likeCount": "50",
-            "favoriteCount": "0",
-            "commentCount": "3",
-            "liveStreamingDetails": [
-                {
-                    "actualStartTime": "2022-07-20T14:57:48Z",
-                    "actualEndTime": "2022-07-20T17:35:22Z",
-                    "scheduledStartTime": "2022-07-20T15:00:00Z"
-                }
-            ]
+            "viewCount": 0,
+            "likeCount": 0,
+            "dislikeCount": 0,
+            "favoriteCount": 0,
+            "commentCount": 0
         },
         "last_modified": "2023-02-07T19:26:49Z",
         "stargazers": 17,
@@ -903,11 +897,17 @@
             ]
         },
         "youtube_statistics": {
-            "viewCount": 0,
-            "likeCount": 0,
-            "dislikeCount": 0,
-            "favoriteCount": 0,
-            "commentCount": 0
+            "viewCount": "1685",
+            "likeCount": "88",
+            "favoriteCount": "0",
+            "commentCount": "1",
+            "liveStreamingDetails": [
+                {
+                    "actualStartTime": "2022-08-31T14:57:25Z",
+                    "actualEndTime": "2022-08-31T17:22:42Z",
+                    "scheduledStartTime": "2022-08-31T15:00:00Z"
+                }
+            ]
         },
         "last_modified": "2023-02-09T16:59:36Z",
         "stargazers": 6,
@@ -1313,11 +1313,17 @@
             ]
         },
         "youtube_statistics": {
-            "viewCount": 0,
-            "likeCount": 0,
-            "dislikeCount": 0,
-            "favoriteCount": 0,
-            "commentCount": 0
+            "viewCount": "1095",
+            "likeCount": "44",
+            "favoriteCount": "0",
+            "commentCount": "0",
+            "liveStreamingDetails": [
+                {
+                    "actualStartTime": "2022-06-29T14:55:25Z",
+                    "actualEndTime": "2022-06-29T17:02:24Z",
+                    "scheduledStartTime": "2022-06-29T15:00:00Z"
+                }
+            ]
         },
         "last_modified": "2023-04-10T05:15:46Z",
         "stargazers": 78,
