@@ -671,11 +671,17 @@
             ]
         },
         "youtube_statistics": {
-            "viewCount": 0,
-            "likeCount": 0,
-            "dislikeCount": 0,
-            "favoriteCount": 0,
-            "commentCount": 0
+            "viewCount": "1432",
+            "likeCount": "50",
+            "favoriteCount": "0",
+            "commentCount": "3",
+            "liveStreamingDetails": [
+                {
+                    "actualStartTime": "2022-07-20T14:57:48Z",
+                    "actualEndTime": "2022-07-20T17:35:22Z",
+                    "scheduledStartTime": "2022-07-20T15:00:00Z"
+                }
+            ]
         },
         "last_modified": "2023-02-07T19:26:49Z",
         "stargazers": 17,
@@ -891,7 +897,7 @@
             ]
         },
         "youtube_statistics": {
-            "viewCount": "1686",
+            "viewCount": "1684",
             "likeCount": "88",
             "favoriteCount": "0",
             "commentCount": "1",
@@ -1056,16 +1062,11 @@
             ]
         },
         "youtube_statistics": {
-            "viewCount": 3063,
-            "likeCount": 84,
-            "favoriteCount": 0,
-            "commentCount": 3,
+            "viewCount": "1082",
+            "likeCount": "39",
+            "favoriteCount": "0",
+            "commentCount": "1",
             "liveStreamingDetails": [
-                {
-                    "actualStartTime": "2022-02-15T16:04:54Z",
-                    "actualEndTime": "2022-02-15T18:20:08Z",
-                    "scheduledStartTime": "2022-02-15T16:00:00Z"
-                },
                 {
                     "actualStartTime": "2021-05-11T15:59:53Z",
                     "actualEndTime": "2021-05-11T18:08:15Z",
@@ -1307,17 +1308,11 @@
             ]
         },
         "youtube_statistics": {
-            "viewCount": "1095",
-            "likeCount": "44",
-            "favoriteCount": "0",
-            "commentCount": "0",
-            "liveStreamingDetails": [
-                {
-                    "actualStartTime": "2022-06-29T14:55:25Z",
-                    "actualEndTime": "2022-06-29T17:02:24Z",
-                    "scheduledStartTime": "2022-06-29T15:00:00Z"
-                }
-            ]
+            "viewCount": 0,
+            "likeCount": 0,
+            "dislikeCount": 0,
+            "favoriteCount": 0,
+            "commentCount": 0
         },
         "last_modified": "2023-04-10T05:15:46Z",
         "stargazers": 78,
@@ -1567,17 +1562,11 @@
             ]
         },
         "youtube_statistics": {
-            "viewCount": "4854",
-            "likeCount": "273",
-            "favoriteCount": "0",
-            "commentCount": "3",
-            "liveStreamingDetails": [
-                {
-                    "actualStartTime": "2022-02-23T15:57:19Z",
-                    "actualEndTime": "2022-02-23T18:36:39Z",
-                    "scheduledStartTime": "2022-02-23T16:00:00Z"
-                }
-            ]
+            "viewCount": 0,
+            "likeCount": 0,
+            "dislikeCount": 0,
+            "favoriteCount": 0,
+            "commentCount": 0
         },
         "last_modified": "2023-05-15T04:58:58Z",
         "stargazers": 133,
@@ -1627,11 +1616,17 @@
             ]
         },
         "youtube_statistics": {
-            "viewCount": 0,
-            "likeCount": 0,
-            "dislikeCount": 0,
-            "favoriteCount": 0,
-            "commentCount": 0
+            "viewCount": "2291",
+            "likeCount": "71",
+            "favoriteCount": "0",
+            "commentCount": "0",
+            "liveStreamingDetails": [
+                {
+                    "actualStartTime": "2022-02-02T15:54:55Z",
+                    "actualEndTime": "2022-02-02T18:18:04Z",
+                    "scheduledStartTime": "2022-02-02T16:00:00Z"
+                }
+            ]
         },
         "last_modified": "2023-06-17T20:58:11Z",
         "stargazers": 30,
