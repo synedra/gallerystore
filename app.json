@@ -903,7 +903,7 @@
             ]
         },
         "youtube_statistics": {
-            "viewCount": "1697",
+            "viewCount": "1698",
             "likeCount": "88",
             "favoriteCount": "0",
             "commentCount": "1",
@@ -960,8 +960,8 @@
                 "https://docs.google.com/presentation/d/1QBqlmG5K5s7i28iX_Wagnwfr1pCoTvpjJAeEGqG7EII/edit#slide=id.p"
             ]
         },
-        "last_modified": "2023-01-20T11:29:26Z",
-        "stargazers": 0,
+        "last_modified": "2023-07-05T07:24:06Z",
+        "stargazers": 1,
         "forks": 1,
         "description": "The goal of this workshop is to get you familiar with the powerful and versatile tool NoSQLBench. With that, you can perform industry-grade, robust benchmarks aimed at several (distributed) target systems, especially NoSQL databases.",
         "reposlug": "datastaxdevs-workshop-nosqlbench",
@@ -1068,16 +1068,11 @@
             ]
         },
         "youtube_statistics": {
-            "viewCount": 3088,
-            "likeCount": 84,
-            "favoriteCount": 0,
-            "commentCount": 3,
+            "viewCount": "1086",
+            "likeCount": "39",
+            "favoriteCount": "0",
+            "commentCount": "1",
             "liveStreamingDetails": [
-                {
-                    "actualStartTime": "2022-02-15T16:04:54Z",
-                    "actualEndTime": "2022-02-15T18:20:08Z",
-                    "scheduledStartTime": "2022-02-15T16:00:00Z"
-                },
                 {
                     "actualStartTime": "2021-05-11T15:59:53Z",
                     "actualEndTime": "2021-05-11T18:08:15Z",
@@ -1639,17 +1634,11 @@
             ]
         },
         "youtube_statistics": {
-            "viewCount": "2301",
-            "likeCount": "71",
-            "favoriteCount": "0",
-            "commentCount": "0",
-            "liveStreamingDetails": [
-                {
-                    "actualStartTime": "2022-02-02T15:54:55Z",
-                    "actualEndTime": "2022-02-02T18:18:04Z",
-                    "scheduledStartTime": "2022-02-02T16:00:00Z"
-                }
-            ]
+            "viewCount": 0,
+            "likeCount": 0,
+            "dislikeCount": 0,
+            "favoriteCount": 0,
+            "commentCount": 0
         },
         "last_modified": "2023-07-03T12:52:26Z",
         "stargazers": 29,
