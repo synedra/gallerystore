@@ -204,8 +204,8 @@
             "java",
             "spring"
         ],
-        "last_modified": "2023-05-13T23:54:01Z",
-        "stargazers": 37,
+        "last_modified": "2023-07-06T22:53:15Z",
+        "stargazers": 38,
         "forks": 33,
         "reposlug": "DataStax-Examples-spring-data-starter"
     },
@@ -1319,17 +1319,11 @@
             ]
         },
         "youtube_statistics": {
-            "viewCount": "1095",
-            "likeCount": "44",
-            "favoriteCount": "0",
-            "commentCount": "0",
-            "liveStreamingDetails": [
-                {
-                    "actualStartTime": "2022-06-29T14:55:25Z",
-                    "actualEndTime": "2022-06-29T17:02:24Z",
-                    "scheduledStartTime": "2022-06-29T15:00:00Z"
-                }
-            ]
+            "viewCount": 0,
+            "likeCount": 0,
+            "dislikeCount": 0,
+            "favoriteCount": 0,
+            "commentCount": 0
         },
         "last_modified": "2023-04-10T05:15:46Z",
         "stargazers": 78,
@@ -1639,7 +1633,7 @@
             ]
         },
         "youtube_statistics": {
-            "viewCount": "2303",
+            "viewCount": "2304",
             "likeCount": "71",
             "favoriteCount": "0",
             "commentCount": "0",
@@ -1882,7 +1876,7 @@
             ]
         },
         "tags": [],
-        "last_modified": "2023-04-03T19:54:05Z",
+        "last_modified": "2023-07-06T22:53:31Z",
         "stargazers": 15,
         "forks": 12,
         "description": "Example REST API in Java showing how to connect to and query DataStax Astra databases",
