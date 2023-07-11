@@ -22,8 +22,8 @@
         "tags": [
             "spring"
         ],
-        "last_modified": "2023-01-05T14:45:29Z",
-        "stargazers": 15,
+        "last_modified": "2023-07-11T07:16:47Z",
+        "stargazers": 16,
         "forks": 14,
         "reposlug": "datastax-astra-sdk-java"
     },
@@ -1068,7 +1068,7 @@
             ]
         },
         "youtube_statistics": {
-            "viewCount": 3097,
+            "viewCount": 3098,
             "likeCount": 84,
             "favoriteCount": 0,
             "commentCount": 3,
