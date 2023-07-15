@@ -683,8 +683,8 @@
                 }
             ]
         },
-        "last_modified": "2023-02-07T19:26:49Z",
-        "stargazers": 17,
+        "last_modified": "2023-07-15T03:47:07Z",
+        "stargazers": 18,
         "forks": 9,
         "description": "Welcome to the Apache Cassandra\u2122 Fundamentals workshop! In this two-hour workshop, we shows the most important fundamentals and basics of the powerful distributed NoSQL database Apache Cassandra\u2122.",
         "reposlug": "datastaxdevs-workshop-cassandra-fundamentals",
@@ -1068,7 +1068,7 @@
             ]
         },
         "youtube_statistics": {
-            "viewCount": 3111,
+            "viewCount": 3110,
             "likeCount": 85,
             "favoriteCount": 0,
             "commentCount": 3,
@@ -1579,11 +1579,17 @@
             ]
         },
         "youtube_statistics": {
-            "viewCount": 0,
-            "likeCount": 0,
-            "dislikeCount": 0,
-            "favoriteCount": 0,
-            "commentCount": 0
+            "viewCount": "4860",
+            "likeCount": "274",
+            "favoriteCount": "0",
+            "commentCount": "3",
+            "liveStreamingDetails": [
+                {
+                    "actualStartTime": "2022-02-23T15:57:19Z",
+                    "actualEndTime": "2022-02-23T18:36:39Z",
+                    "scheduledStartTime": "2022-02-23T16:00:00Z"
+                }
+            ]
         },
         "last_modified": "2023-05-15T04:58:58Z",
         "stargazers": 133,
