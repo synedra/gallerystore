@@ -1482,7 +1482,7 @@
         },
         "last_modified": "2023-05-21T16:12:54Z",
         "stargazers": 72,
-        "forks": 61,
+        "forks": 60,
         "description": "Are you building or do you support an e-commerce website? If so, then this content is for you!  Worldwide digital sales in 2020 eclipsed four trillion dollars (USD). Businesses that want to compete, need a high performing e-commerce website. Here, we will demonstrate how to build a high performing persistence layer with DataStax ASTRA DB.",
         "reposlug": "datastaxdevs-workshop-ecommerce-app",
         "duration": "50 minutes",
