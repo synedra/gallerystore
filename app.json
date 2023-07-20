@@ -1591,8 +1591,8 @@
                 }
             ]
         },
-        "last_modified": "2023-05-15T04:58:58Z",
-        "stargazers": 133,
+        "last_modified": "2023-07-20T17:52:04Z",
+        "stargazers": 132,
         "forks": 54,
         "reposlug": "datastaxdevs-workshop-ai-as-api",
         "description": "Learn to build your own NLP text classifier and expose it as an API:",
