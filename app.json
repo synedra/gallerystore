@@ -1068,11 +1068,16 @@
             ]
         },
         "youtube_statistics": {
-            "viewCount": "1095",
-            "likeCount": "39",
-            "favoriteCount": "0",
-            "commentCount": "1",
+            "viewCount": 3128,
+            "likeCount": 86,
+            "favoriteCount": 0,
+            "commentCount": 3,
             "liveStreamingDetails": [
+                {
+                    "actualStartTime": "2022-02-15T16:04:54Z",
+                    "actualEndTime": "2022-02-15T18:20:08Z",
+                    "scheduledStartTime": "2022-02-15T16:00:00Z"
+                },
                 {
                     "actualStartTime": "2021-05-11T15:59:53Z",
                     "actualEndTime": "2021-05-11T18:08:15Z",
@@ -1172,7 +1177,7 @@
         ],
         "last_modified": "2023-04-03T21:49:59Z",
         "stargazers": 84,
-        "forks": 97,
+        "forks": 98,
         "description": "This is an example React To-Do application using a DataStax Astra free tier database.",
         "reposlug": "datastaxdevs-appdev-week1-todolist",
         "name": "ToDo App using JAMStack, Netlify, and AstraDB",
@@ -1634,11 +1639,17 @@
             ]
         },
         "youtube_statistics": {
-            "viewCount": 0,
-            "likeCount": 0,
-            "dislikeCount": 0,
-            "favoriteCount": 0,
-            "commentCount": 0
+            "viewCount": "2328",
+            "likeCount": "71",
+            "favoriteCount": "0",
+            "commentCount": "0",
+            "liveStreamingDetails": [
+                {
+                    "actualStartTime": "2022-02-02T15:54:55Z",
+                    "actualEndTime": "2022-02-02T18:18:04Z",
+                    "scheduledStartTime": "2022-02-02T16:00:00Z"
+                }
+            ]
         },
         "last_modified": "2023-07-03T12:52:26Z",
         "stargazers": 29,
