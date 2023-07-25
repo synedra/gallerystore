@@ -1068,7 +1068,7 @@
             ]
         },
         "youtube_statistics": {
-            "viewCount": 3128,
+            "viewCount": 3130,
             "likeCount": 86,
             "favoriteCount": 0,
             "commentCount": 3,
@@ -1362,7 +1362,7 @@
         ],
         "last_modified": "2023-07-23T12:01:52Z",
         "stargazers": 263,
-        "forks": 197,
+        "forks": 198,
         "description": "An introduction to NoSQL Databases",
         "reposlug": "datastaxdevs-workshop-introduction-to-nosql",
         "name": "Introduction to NoSQL Workshop",
@@ -1579,7 +1579,7 @@
             ]
         },
         "youtube_statistics": {
-            "viewCount": "4862",
+            "viewCount": "4864",
             "likeCount": "274",
             "favoriteCount": "0",
             "commentCount": "3",
