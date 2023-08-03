@@ -1068,15 +1068,20 @@
             ]
         },
         "youtube_statistics": {
-            "viewCount": "2050",
-            "likeCount": "47",
-            "favoriteCount": "0",
-            "commentCount": "2",
+            "viewCount": 3148,
+            "likeCount": 86,
+            "favoriteCount": 0,
+            "commentCount": 3,
             "liveStreamingDetails": [
                 {
                     "actualStartTime": "2022-02-15T16:04:54Z",
                     "actualEndTime": "2022-02-15T18:20:08Z",
                     "scheduledStartTime": "2022-02-15T16:00:00Z"
+                },
+                {
+                    "actualStartTime": "2021-05-11T15:59:53Z",
+                    "actualEndTime": "2021-05-11T18:08:15Z",
+                    "scheduledStartTime": "2021-05-11T16:00:00Z"
                 }
             ]
         },
@@ -1216,8 +1221,8 @@
             "javascript",
             "workshop"
         ],
-        "last_modified": "2023-07-26T12:10:24Z",
-        "stargazers": 623,
+        "last_modified": "2023-08-03T06:14:17Z",
+        "stargazers": 625,
         "forks": 313,
         "description": "A simple ReactJS Netflix homepage clone running on Astra DB that leverages the GraphQL API with paging and infinite scrolling. This application is the result of the collaboration between Ania Kubow and the Datastax Developer Advocate team.",
         "reposlug": "datastaxdevs-workshop-graphql-netflix",
@@ -1634,7 +1639,7 @@
             ]
         },
         "youtube_statistics": {
-            "viewCount": "2340",
+            "viewCount": "2341",
             "likeCount": "72",
             "favoriteCount": "0",
             "commentCount": "0",
