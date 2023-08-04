@@ -1068,16 +1068,11 @@
             ]
         },
         "youtube_statistics": {
-            "viewCount": 3152,
-            "likeCount": 86,
-            "favoriteCount": 0,
-            "commentCount": 3,
+            "viewCount": "1099",
+            "likeCount": "39",
+            "favoriteCount": "0",
+            "commentCount": "1",
             "liveStreamingDetails": [
-                {
-                    "actualStartTime": "2022-02-15T16:04:54Z",
-                    "actualEndTime": "2022-02-15T18:20:08Z",
-                    "scheduledStartTime": "2022-02-15T16:00:00Z"
-                },
                 {
                     "actualStartTime": "2021-05-11T15:59:53Z",
                     "actualEndTime": "2021-05-11T18:08:15Z",
