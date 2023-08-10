@@ -1068,20 +1068,15 @@
             ]
         },
         "youtube_statistics": {
-            "viewCount": 3166,
-            "likeCount": 86,
-            "favoriteCount": 0,
-            "commentCount": 3,
+            "viewCount": "2067",
+            "likeCount": "47",
+            "favoriteCount": "0",
+            "commentCount": "2",
             "liveStreamingDetails": [
                 {
                     "actualStartTime": "2022-02-15T16:04:54Z",
                     "actualEndTime": "2022-02-15T18:20:08Z",
                     "scheduledStartTime": "2022-02-15T16:00:00Z"
-                },
-                {
-                    "actualStartTime": "2021-05-11T15:59:53Z",
-                    "actualEndTime": "2021-05-11T18:08:15Z",
-                    "scheduledStartTime": "2021-05-11T16:00:00Z"
                 }
             ]
         },
@@ -1480,8 +1475,8 @@
                 "https://www.youtube.com/watch?v=h7BEsnMk1_E"
             ]
         },
-        "last_modified": "2023-07-19T08:11:32Z",
-        "stargazers": 73,
+        "last_modified": "2023-08-10T05:11:41Z",
+        "stargazers": 72,
         "forks": 60,
         "description": "Are you building or do you support an e-commerce website? If so, then this content is for you!  Worldwide digital sales in 2020 eclipsed four trillion dollars (USD). Businesses that want to compete, need a high performing e-commerce website. Here, we will demonstrate how to build a high performing persistence layer with DataStax ASTRA DB.",
         "reposlug": "datastaxdevs-workshop-ecommerce-app",
