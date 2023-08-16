@@ -671,7 +671,7 @@
             ]
         },
         "youtube_statistics": {
-            "viewCount": "1441",
+            "viewCount": "1442",
             "likeCount": "50",
             "favoriteCount": "0",
             "commentCount": "3",
@@ -903,7 +903,7 @@
             ]
         },
         "youtube_statistics": {
-            "viewCount": "1726",
+            "viewCount": "1727",
             "likeCount": "89",
             "favoriteCount": "0",
             "commentCount": "1",
@@ -1068,11 +1068,16 @@
             ]
         },
         "youtube_statistics": {
-            "viewCount": "1099",
-            "likeCount": "39",
-            "favoriteCount": "0",
-            "commentCount": "1",
+            "viewCount": 3174,
+            "likeCount": 87,
+            "favoriteCount": 0,
+            "commentCount": 3,
             "liveStreamingDetails": [
+                {
+                    "actualStartTime": "2022-02-15T16:04:54Z",
+                    "actualEndTime": "2022-02-15T18:20:08Z",
+                    "scheduledStartTime": "2022-02-15T16:00:00Z"
+                },
                 {
                     "actualStartTime": "2021-05-11T15:59:53Z",
                     "actualEndTime": "2021-05-11T18:08:15Z",
@@ -1538,8 +1543,8 @@
                 "https://www.mentimeter.com/app/folder/1973087"
             ]
         },
-        "last_modified": "2023-07-19T09:00:36Z",
-        "stargazers": 54,
+        "last_modified": "2023-08-16T10:55:15Z",
+        "stargazers": 55,
         "forks": 54,
         "description": "Workshop Java Spring Reactive \ud83d\udc08 PetClinic Application \ud83d\udc15",
         "reposlug": "datastaxdevs-workshop-spring-reactive"
@@ -1574,17 +1579,11 @@
             ]
         },
         "youtube_statistics": {
-            "viewCount": "4869",
-            "likeCount": "274",
-            "favoriteCount": "0",
-            "commentCount": "3",
-            "liveStreamingDetails": [
-                {
-                    "actualStartTime": "2022-02-23T15:57:19Z",
-                    "actualEndTime": "2022-02-23T18:36:39Z",
-                    "scheduledStartTime": "2022-02-23T16:00:00Z"
-                }
-            ]
+            "viewCount": 0,
+            "likeCount": 0,
+            "dislikeCount": 0,
+            "favoriteCount": 0,
+            "commentCount": 0
         },
         "last_modified": "2023-07-20T17:52:04Z",
         "stargazers": 132,
