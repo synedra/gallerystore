@@ -1579,11 +1579,17 @@
             ]
         },
         "youtube_statistics": {
-            "viewCount": 0,
-            "likeCount": 0,
-            "dislikeCount": 0,
-            "favoriteCount": 0,
-            "commentCount": 0
+            "viewCount": "4869",
+            "likeCount": "274",
+            "favoriteCount": "0",
+            "commentCount": "3",
+            "liveStreamingDetails": [
+                {
+                    "actualStartTime": "2022-02-23T15:57:19Z",
+                    "actualEndTime": "2022-02-23T18:36:39Z",
+                    "scheduledStartTime": "2022-02-23T16:00:00Z"
+                }
+            ]
         },
         "last_modified": "2023-07-20T17:52:04Z",
         "stargazers": 132,
