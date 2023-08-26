@@ -1884,7 +1884,7 @@
         "tags": [],
         "last_modified": "2023-07-06T22:53:31Z",
         "stargazers": 15,
-        "forks": 12,
+        "forks": 11,
         "description": "Example REST API in Java showing how to connect to and query DataStax Astra databases",
         "reposlug": "DataStax-Examples-getting-started-with-astra-java"
     },
