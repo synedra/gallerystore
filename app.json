@@ -758,7 +758,7 @@
             ]
         },
         "youtube_statistics": {
-            "viewCount": "828",
+            "viewCount": "829",
             "likeCount": "29",
             "favoriteCount": "0",
             "commentCount": "0",
@@ -1068,7 +1068,7 @@
             ]
         },
         "youtube_statistics": {
-            "viewCount": 3191,
+            "viewCount": 3193,
             "likeCount": 87,
             "favoriteCount": 0,
             "commentCount": 3,
@@ -1691,8 +1691,8 @@
                 "https://www.mentimeter.com/app/folder/1973089"
             ]
         },
-        "last_modified": "2023-08-28T16:20:02Z",
-        "stargazers": 23,
+        "last_modified": "2023-08-29T15:07:04Z",
+        "stargazers": 22,
         "forks": 25,
         "description": "Clone of Good Reads using Spring and Cassandra",
         "reposlug": "datastaxdevs-workshop-betterreads"
