@@ -2,6 +2,7 @@
 <h1><a class="anchor" aria-hidden="true" id="what-is-included"> </a>What is included?</h1>
 <h2><a class="anchor" aria-hidden="true" id="a-href-documents-documentation-a"> </a><a href="documents/" target="_blank">Documentation</a></h2>
 <ul>
+<li><a href="documents/astra_vector_search_with_sai_analyzer/Vector_Search_with_AstraDB_SAI_Analyzers.ipynb" target="_blank">Working with Astra Vector Search with SAI Analyzers</a></li>
 <li><a href="documents/Working_with_DataStax_Astra.md" target="_blank">Working with DataStax Astra™</a></li>
 <li><a href="documents/Working_with_DataStax_Astra_API_Ansible.md" target="_blank">Working with DataStax Astra™ DevOps &amp; Data APIs with Ansible</a></li>
 <li><a href="documents/Cloud_provider_status_dashboards_icons_and_general.md" target="_blank">Public cloud provider status dashboards, architectural diagrams, etc.,</a></li>
