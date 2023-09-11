@@ -897,14 +897,20 @@
             ]
         },
         "youtube_statistics": {
-            "viewCount": 0,
-            "likeCount": 0,
-            "dislikeCount": 0,
-            "favoriteCount": 0,
-            "commentCount": 0
+            "viewCount": "1740",
+            "likeCount": "90",
+            "favoriteCount": "0",
+            "commentCount": "1",
+            "liveStreamingDetails": [
+                {
+                    "actualStartTime": "2022-08-31T14:57:25Z",
+                    "actualEndTime": "2022-08-31T17:22:42Z",
+                    "scheduledStartTime": "2022-08-31T15:00:00Z"
+                }
+            ]
         },
-        "last_modified": "2023-02-09T16:59:36Z",
-        "stargazers": 6,
+        "last_modified": "2023-09-11T10:16:55Z",
+        "stargazers": 7,
         "forks": 5,
         "description": "Come ready to discover the goals and approaches of machine learning, and how to build effective algorithms and solutions!",
         "reposlug": "datastaxdevs-workshop-introduction-to-machine-learning",
@@ -1568,8 +1574,8 @@
                 }
             ]
         },
-        "last_modified": "2023-07-20T17:52:04Z",
-        "stargazers": 132,
+        "last_modified": "2023-09-11T09:54:17Z",
+        "stargazers": 133,
         "forks": 54,
         "reposlug": "datastaxdevs-workshop-ai-as-api",
         "description": "Learn to build your own NLP text classifier and expose it as an API:",
