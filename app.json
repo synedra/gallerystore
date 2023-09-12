@@ -758,17 +758,11 @@
             ]
         },
         "youtube_statistics": {
-            "viewCount": "829",
-            "likeCount": "29",
-            "favoriteCount": "0",
-            "commentCount": "0",
-            "liveStreamingDetails": [
-                {
-                    "actualStartTime": "2022-08-10T14:54:50Z",
-                    "actualEndTime": "2022-08-10T17:11:57Z",
-                    "scheduledStartTime": "2022-08-10T15:00:00Z"
-                }
-            ]
+            "viewCount": 0,
+            "likeCount": 0,
+            "dislikeCount": 0,
+            "favoriteCount": 0,
+            "commentCount": 0
         },
         "last_modified": "2023-01-25T17:48:55Z",
         "stargazers": 10,
@@ -903,7 +897,7 @@
             ]
         },
         "youtube_statistics": {
-            "viewCount": "1740",
+            "viewCount": "1742",
             "likeCount": "90",
             "favoriteCount": "0",
             "commentCount": "1",
@@ -1068,11 +1062,16 @@
             ]
         },
         "youtube_statistics": {
-            "viewCount": "1099",
-            "likeCount": "39",
-            "favoriteCount": "0",
-            "commentCount": "1",
+            "viewCount": 3224,
+            "likeCount": 87,
+            "favoriteCount": 0,
+            "commentCount": 3,
             "liveStreamingDetails": [
+                {
+                    "actualStartTime": "2022-02-15T16:04:54Z",
+                    "actualEndTime": "2022-02-15T18:20:08Z",
+                    "scheduledStartTime": "2022-02-15T16:00:00Z"
+                },
                 {
                     "actualStartTime": "2021-05-11T15:59:53Z",
                     "actualEndTime": "2021-05-11T18:08:15Z",
@@ -1574,11 +1573,17 @@
             ]
         },
         "youtube_statistics": {
-            "viewCount": 0,
-            "likeCount": 0,
-            "dislikeCount": 0,
-            "favoriteCount": 0,
-            "commentCount": 0
+            "viewCount": "4878",
+            "likeCount": "274",
+            "favoriteCount": "0",
+            "commentCount": "3",
+            "liveStreamingDetails": [
+                {
+                    "actualStartTime": "2022-02-23T15:57:19Z",
+                    "actualEndTime": "2022-02-23T18:36:39Z",
+                    "scheduledStartTime": "2022-02-23T16:00:00Z"
+                }
+            ]
         },
         "last_modified": "2023-09-11T09:54:17Z",
         "stargazers": 133,
