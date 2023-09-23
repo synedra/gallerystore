@@ -1068,20 +1068,15 @@
             ]
         },
         "youtube_statistics": {
-            "viewCount": 3237,
-            "likeCount": 87,
-            "favoriteCount": 0,
-            "commentCount": 3,
+            "viewCount": "2137",
+            "likeCount": "48",
+            "favoriteCount": "0",
+            "commentCount": "2",
             "liveStreamingDetails": [
                 {
                     "actualStartTime": "2022-02-15T16:04:54Z",
                     "actualEndTime": "2022-02-15T18:20:08Z",
                     "scheduledStartTime": "2022-02-15T16:00:00Z"
-                },
-                {
-                    "actualStartTime": "2021-05-11T15:59:53Z",
-                    "actualEndTime": "2021-05-11T18:08:15Z",
-                    "scheduledStartTime": "2021-05-11T16:00:00Z"
                 }
             ]
         },
@@ -1480,8 +1475,8 @@
                 "https://www.youtube.com/watch?v=h7BEsnMk1_E"
             ]
         },
-        "last_modified": "2023-08-21T14:07:43Z",
-        "stargazers": 73,
+        "last_modified": "2023-09-22T21:16:24Z",
+        "stargazers": 72,
         "forks": 60,
         "description": "Are you building or do you support an e-commerce website? If so, then this content is for you!  Worldwide digital sales in 2020 eclipsed four trillion dollars (USD). Businesses that want to compete, need a high performing e-commerce website. Here, we will demonstrate how to build a high performing persistence layer with DataStax ASTRA DB.",
         "reposlug": "datastaxdevs-workshop-ecommerce-app",
@@ -1639,11 +1634,17 @@
             ]
         },
         "youtube_statistics": {
-            "viewCount": 0,
-            "likeCount": 0,
-            "dislikeCount": 0,
-            "favoriteCount": 0,
-            "commentCount": 0
+            "viewCount": "2389",
+            "likeCount": "72",
+            "favoriteCount": "0",
+            "commentCount": "0",
+            "liveStreamingDetails": [
+                {
+                    "actualStartTime": "2022-02-02T15:54:55Z",
+                    "actualEndTime": "2022-02-02T18:18:04Z",
+                    "scheduledStartTime": "2022-02-02T16:00:00Z"
+                }
+            ]
         },
         "last_modified": "2023-09-14T12:01:09Z",
         "stargazers": 30,
