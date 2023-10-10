@@ -758,7 +758,7 @@
             ]
         },
         "youtube_statistics": {
-            "viewCount": "837",
+            "viewCount": "838",
             "likeCount": "29",
             "favoriteCount": "0",
             "commentCount": "0",
@@ -1068,7 +1068,7 @@
             ]
         },
         "youtube_statistics": {
-            "viewCount": 3251,
+            "viewCount": 3252,
             "likeCount": 87,
             "favoriteCount": 0,
             "commentCount": 3,
@@ -1085,8 +1085,8 @@
                 }
             ]
         },
-        "last_modified": "2023-02-23T22:26:45Z",
-        "stargazers": 15,
+        "last_modified": "2023-10-10T12:34:15Z",
+        "stargazers": 16,
         "forks": 7,
         "reposlug": "DataStax-Academy-workshop-k8ssandra-certification"
     },
@@ -1639,7 +1639,7 @@
             ]
         },
         "youtube_statistics": {
-            "viewCount": "2397",
+            "viewCount": "2396",
             "likeCount": "72",
             "favoriteCount": "0",
             "commentCount": "0",
