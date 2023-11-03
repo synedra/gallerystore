@@ -20,3 +20,44 @@
 <li><a href="https://github.com/datastax/astra-sdk-java/wiki/Astra-SDK-Quickstart" target="_blank">QuickStart for Astra</a></li>
 <li><a href="https://github.com/datastax/astra-sdk-java/wiki/Spring-Boot-Starter-Quickstart" target="_blank">QuickStart for Astra Spring Boot Starter</a></li>
 </ol>
+<h2><a class="anchor" aria-hidden="true" id="release-workflow"> </a>Release Workflow</h2>
+<h3><a class="anchor" aria-hidden="true" id="prerequisites"> </a>Prerequisites</h3>
+<ul>
+<li><input type="checkbox" checked="" disabled="" /> Start the <code>ssh-agent</code></li>
+</ul>
+<pre lang="console"><code>eval &quot;$(ssh-agent -s)&quot;
+</code></pre>
+<ul>
+<li><input type="checkbox" checked="" disabled="" /> Add the ssh key to the agent</li>
+</ul>
+<pre lang="console"><code>cd ~/.ssh
+ssh-add githubff4j
+</code></pre>
+<ul>
+<li><input type="checkbox" checked="" disabled="" /> cleanup sources</li>
+</ul>
+<pre lang="console"><code>find . -type f -name *.DS_Store -ls -delete
+git pull
+git add -A
+git commit -m &quot;delivery&quot;
+git push
+</code></pre>
+<h3><a class="anchor" aria-hidden="true" id="release"> </a>Release</h3>
+<ul>
+<li><input type="checkbox" checked="" disabled="" /> Run release</li>
+</ul>
+<pre><code>mvn release:prepare release:perform
+</code></pre>
+<ul>
+<li>
+<p>Go to the <a href="https://github.com/datastax/astra-sdk-java/tags" target="_blank">taglist</a> on github then create the release</p>
+</li>
+<li>
+<p>Create a release note document</p>
+</li>
+</ul>
+<pre><code>`Fixes:`
+ + XXX (#000)
+`Evolutions`
+ + YYY (#000)
+</code></pre>
